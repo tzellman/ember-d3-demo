@@ -1,0 +1,8 @@
+.demo1 svg circle {
+  cursor: pointer;
+  fill-opacity: 0.2; }
+
+.demo1 svg text {
+  fill: darkgreen;
+  font-size: 30px;
+  font-weight: 700; }

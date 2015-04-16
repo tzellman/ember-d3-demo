@@ -1,0 +1,4 @@
+module('JSHint - views');
+test('views/demo2.js should pass jshint', function() { 
+  ok(false, 'views/demo2.js should pass jshint.\nviews/demo2.js: line 176, col 44, Expected \'{\' and instead saw \'return\'.\nviews/demo2.js: line 179, col 36, Expected \'{\' and instead saw \'return\'.\nviews/demo2.js: line 61, col 37, \'d\' is defined but never used.\nviews/demo2.js: line 70, col 30, \'d\' is defined but never used.\n\n4 errors'); 
+});
