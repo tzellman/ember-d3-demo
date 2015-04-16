@@ -1,0 +1,38 @@
+.demo1 {
+
+    svg circle {
+        cursor: pointer;
+        fill-opacity: 0.2;
+    }
+
+    svg text {
+        fill: darkgreen;
+        font-size: 30px;
+        font-weight: 700;
+    }
+}
+
+.demo2 {
+
+    circle.node {
+        cursor: pointer;
+        stroke: #000;
+        stroke-width: .5px;
+    }
+
+    circle.active {
+        stroke: #0f0;
+        stroke-width: 2px;
+    }
+
+    line.link {
+        fill: none;
+        stroke: #9ecae1;
+        stroke-width: 1.5px;
+    }
+
+    text {
+        fill: #000;
+        font-size: 20px;
+    }
+}
