@@ -1,1 +1,0 @@
-/data/dev/personal/d3-demo/tmp/funnel-dest_VyJLhG.tmp/d3-demo/tests/helpers/start-app.jshint.js

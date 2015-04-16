@@ -1,1 +1,0 @@
-/data/dev/personal/d3-demo/tmp/funnel-dest_GisPSf.tmp/ember-data/ember-data.js

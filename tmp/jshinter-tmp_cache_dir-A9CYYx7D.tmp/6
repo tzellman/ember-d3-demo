@@ -1,4 +1,0 @@
-module('JSHint - routes');
-test('routes/demo2.js should pass jshint', function() { 
-  ok(true, 'routes/demo2.js should pass jshint.'); 
-});

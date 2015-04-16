@@ -1,1 +1,0 @@
-/data/dev/personal/d3-demo/tmp/jshinter-tmp_dest_dir-fu5IewFX.tmp/helpers/resolver.jshint.js
